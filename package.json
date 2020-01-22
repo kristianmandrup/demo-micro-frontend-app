@@ -48,6 +48,7 @@
     "single-spa": "^3.8.1",
     "single-spa-angular": "^2.2.1",
     "single-spa-react": "^2.9.0",
+    "single-spa-svelte": "^1.0.1",
     "zone.js": "^0.8.16"
   }
 }
