@@ -794,8 +794,9 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
 
 atob@^2.0.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/atob/-/atob-2.0.3.tgz#19c7a760473774468f20b2d2d03372ad7d4cbf5d"
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
+  integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
 aws-sign2@~0.6.0:
   version "0.6.0"
@@ -5795,6 +5796,11 @@ single-spa-react@^2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/single-spa-react/-/single-spa-react-2.9.0.tgz#f0314a15f9c64e159b0fd0e889f0bde9c7d3ac5e"
   integrity sha512-ifHjaS2lgXrty8N3rxVvUG7uc7X++gcDztQ9Xdmr/yuz2/dXHCKGjGU459Ly9P6ja9wBG74cit6amEuVevN5tA==
+
+single-spa-svelte@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/single-spa-svelte/-/single-spa-svelte-1.0.1.tgz#ed3e357f2c5732cf71028c06460329517a25a073"
+  integrity sha512-i3mmuKSzeMajecWGondH6Fhqp9r6TmjwyW5dca25SsRuzlRbYtwm0wzq8+wwiwuvARIcCXihdDfoN5wl0hv1Hg==
 
 single-spa@^3.8.1:
   version "3.9.1"
