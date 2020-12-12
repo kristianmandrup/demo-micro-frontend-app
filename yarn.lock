@@ -3268,8 +3268,9 @@ inherits@2.0.1:
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.1.tgz#b17d08d326b4423e568eff719f91b0b1cbdf69f1"
 
 ini@^1.3.4, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 internal-ip@^4.2.0:
   version "4.3.0"
@@ -5795,6 +5796,11 @@ single-spa-react@^2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/single-spa-react/-/single-spa-react-2.9.0.tgz#f0314a15f9c64e159b0fd0e889f0bde9c7d3ac5e"
   integrity sha512-ifHjaS2lgXrty8N3rxVvUG7uc7X++gcDztQ9Xdmr/yuz2/dXHCKGjGU459Ly9P6ja9wBG74cit6amEuVevN5tA==
+
+single-spa-svelte@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/single-spa-svelte/-/single-spa-svelte-1.0.1.tgz#ed3e357f2c5732cf71028c06460329517a25a073"
+  integrity sha512-i3mmuKSzeMajecWGondH6Fhqp9r6TmjwyW5dca25SsRuzlRbYtwm0wzq8+wwiwuvARIcCXihdDfoN5wl0hv1Hg==
 
 single-spa@^3.8.1:
   version "3.9.1"
